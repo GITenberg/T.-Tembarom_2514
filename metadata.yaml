@@ -1,0 +1,35 @@
+_repo: T.-Tembarom_2514
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Burnett, Frances Hodgson
+    aliases:
+    - Townesend, Frances Eliza Hodgson Burnett
+    - Hodgson, Frances Eliza
+    birthdate: 1849
+    deathdate: 1924
+    gutenberg_agent_id: '73'
+    url: http://www.gutenberg.org/2009/agents/73
+    wikipedia: http://en.wikipedia.org/wiki/Frances_Hodgson_Burnett
+description: '"T. Tembarom, a New York street waif, who has struggled and smiled his
+  way to a precarious success on a cheap newspaper, suddenly awakes to find himself
+  Temple Temple Barholm, master of the ancient manor of Temple Barholm in Yorkshire,
+  with all its resulting complications, amusing and otherwise. His fine sincerity
+  and engaging personality and the timely appearance of a lost heir "to the manor
+  born," save the situation."--Manybooks.'
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2001-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2514'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'City and town life -- Fiction'
+- GITenberg
+title: T. Tembarom
+url: http://www.gutenberg.org/ebooks/2514
