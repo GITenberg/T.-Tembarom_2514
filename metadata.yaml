@@ -1,5 +1,8 @@
 _repo: T.-Tembarom_2514
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Burnett, Frances Hodgson
@@ -17,6 +20,8 @@ description: '"T. Tembarom, a New York street waif, who has struggled and smiled
   with all its resulting complications, amusing and otherwise. His fine sincerity
   and engaging personality and the timely appearance of a lost heir "to the manor
   born," save the situation."--Manybooks.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2514#T.-Tembarom
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '2001-02-01'
 gutenberg_type: Text
